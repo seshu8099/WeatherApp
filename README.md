@@ -5,7 +5,7 @@
 
 This is a simple, responsive web application that provides real-time weather information, including current conditions, a 5-day forecast, today's hourly forecast, air quality index, and sunrise/sunset times for any searched city.
 
-## ✨ Features
+##  Features
 
 *   **Current Weather**: Displays current temperature, sky description, city name, date, and time.
 *   **Detailed Metrics**: Shows humidity, pressure, "feels like" temperature, and visibility.
@@ -16,14 +16,14 @@ This is a simple, responsive web application that provides real-time weather inf
 *   **Responsive Design**: Optimized for viewing on various devices, from desktops to mobile phones, using Bootstrap.
 *   **Dynamic Updates**: All weather data is fetched dynamically from the OpenWeatherMap API.
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 *   **HTML**: For the structure of the web page.
 *   **CSS**: For styling, including custom styles (`index.css`) and the Bootstrap framework.
 *   **JavaScript**: For fetching data from APIs, processing it, and dynamically updating the DOM.
 *   **OpenWeatherMap API**: Used to retrieve current weather, 5-day/3-hour forecast, and air pollution data.
 
-## 🛠️ Setup and Installation
+##  Setup and Installation
 
 To get this project up and running on your local machine, follow these steps:
 
@@ -51,7 +51,7 @@ To get this project up and running on your local machine, follow these steps:
 4.  **Open in Browser:**
     *   Simply open the `index.html` file in your preferred web browser. You can do this by double-clicking the file or by right-clicking and choosing "Open with...".
 
-## 💡 Usage
+##  Usage
 
 1.  **Enter City Name**: Type the name of the city you want to check the weather for into the "Search City" input field.
 2.  **Search**: Click the search icon next to the input field.
